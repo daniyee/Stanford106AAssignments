@@ -13,8 +13,8 @@ public class KarelDefendsDemocracy extends SuperKarel {
 		}
 	}
 
-	/**
-	 * Remove any hanging chad from a ballot
+	/*
+	 Remove any hanging chad from a ballot
 	 */
 	private void removeHangingChad() {
 		turnRight();
